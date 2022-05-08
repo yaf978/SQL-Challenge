@@ -13,3 +13,6 @@ This Repository discusses a research project on the employee database at Pewlett
 ![ERD](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/ERD/ERD_TEXT.png)
 
 [DATA BASE schemata](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/Eployees_DB_schemata.sql)
+
+## 3-Data Analysis
+
