@@ -9,3 +9,5 @@ This Repository discusses a research project on the employee database at Pewlett
 ## 1- Data Modeling
 ![ERD_DIAGRAM](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/ERD/Employees_ERD_te.png)
 
+
+[I'm an inline-style link](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/Eployees_DB_schemata.sql)
