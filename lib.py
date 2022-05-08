@@ -1,1 +1,0 @@
-password='postgres:yoyonana978'
