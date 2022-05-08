@@ -16,3 +16,6 @@ This Repository discusses a research project on the employee database at Pewlett
 
 ## 3-Data Analysis
 After completing the importing process, I performed a Postgresql analysis and the result fof query in this file [Employees_DB_Queries.sql](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/Employees_DB_Queries.sql)
+
+## 4-Bonus
+Import the SQL database into Pandas to create a visualization of the data
