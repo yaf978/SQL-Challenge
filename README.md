@@ -10,4 +10,4 @@ This Repository discusses a research project on the employee database at Pewlett
 ![ERD_DIAGRAM](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/ERD/Employees_ERD_te.png)
 
 
-[I'm an inline-style link](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/Eployees_DB_schemata.sql)
+[DATA BASE schemata](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/Eployees_DB_schemata.sql)
