@@ -8,6 +8,7 @@ This Repository discusses a research project on the employee database at Pewlett
 
 ## 1- Data Modeling
 ![ERD_DIAGRAM](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/ERD/Employees_ERD_te.png)
+I used Entity-Relationship Diagrams (ERD) to model the employees data base depending on the 6  given tables .
 
 ## 2-DATA Engineering
 ![ERD](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/ERD/ERD_TEXT.png)
