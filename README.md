@@ -12,6 +12,7 @@ I used Entity-Relationship Diagrams (ERD) to model the employees data base depen
 
 ## 2-DATA Engineering
 ![ERD](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/ERD/ERD_TEXT.png)
+
 to create the schema, I used the tables and defined the types of columns and the primary keys and the relationships between tables.
 
 [DATA BASE schemata](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/Eployees_DB_schemata.sql)
