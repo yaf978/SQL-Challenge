@@ -21,6 +21,7 @@ After completing the importing process, I performed a Postgresql analysis and th
 ## 4-Bonus
 Import the SQL database into Pandas to create a visualization of the data
 
-
+Create a histogram to visualize the most common salary ranges for employees.
 ![historgam](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/Images/salary_hitogram.png)
+Create a bar chart of average salary by title.
 ![avg salary bu title](https://github.com/yaf978/SQL-Challenge/blob/main/EmployeeSQL/Images/avg_salary_title.png)
